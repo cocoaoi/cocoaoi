@@ -7,7 +7,7 @@
 <h3 align="center" style="margin-bottom:30px"> 🌱 MSE Student @ SJSU</h3> </br>
 
 <div align="center" style="margin-bottom:30px">
-  <h3><img src="https://simpleicons.org/icons/github.svg" width="20" style="vertical-align:middle"> My Github</h3>
+  <h3><img src="https://www.iconfinder.com/icons/7763757/download/svg/4096" height="25"> My Github</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cocoaoi&column=8&margin-w=15&margin-h=15" alt="cocoaoi" style="height:150px">
   </a>
